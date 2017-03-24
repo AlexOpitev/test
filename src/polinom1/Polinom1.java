@@ -14,6 +14,9 @@ import java.util.Scanner;
 public class Polinom1 {
     public static void main(String[] args) {
         System.out.println("Введите широту:             (Внимание! десятые вводятся через знак ',')");
+        /*
+        Фиксация
+        */
         double fi = 0;
         double ro = 0;
         double lia = 0;
